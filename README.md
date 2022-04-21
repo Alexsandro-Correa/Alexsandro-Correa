@@ -7,7 +7,7 @@
   />
 </p>
 
-I an a new programmer.
+I am a new programmer.
 
 I love to work with code.
 
