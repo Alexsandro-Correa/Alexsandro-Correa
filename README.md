@@ -7,10 +7,8 @@
   />
 </p>
 
-I an a new programmer.
+I am a new programmer.
 
-I love to work with code.
-
-Can you hire me?
+I'm learning to program through the Entra21 course.
 
 ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Alexsandro-Correa)
