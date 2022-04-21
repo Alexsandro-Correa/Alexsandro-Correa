@@ -1,12 +1,14 @@
-### Alexsandro, Hi there 👋
+## Alexsandro Correa, Hey there 👋
 
-#### Um pouco sobre mim!
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=Alexsandro-Correa"
+    alt="Alexsandro-Correa"
+  />
+</p>
 
-1. Corrêa 
-1. Estudante de Programação
-1. Quero ser...
-  1. Frontend
-  1. Backend
-  
-  ---
+I an a new programmer.
 
+I love to work with code.
+
+Can you hire me?
