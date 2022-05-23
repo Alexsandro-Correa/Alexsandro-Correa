@@ -24,7 +24,7 @@
 
 ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Alexsandro-Correa)
 <p align="left">
-      <a href="https://www.linkedin.com/in/alexsandro-correa-088572238/"><img src="logolinkedin.png" alt="linkedin"/></a>
-      <a href="https://www.facebook.com/alexsandro.rosamatos/"><img src="logo-facebook50.png" alt="facebook"/></a>
-  <a href="https://www.instagram.com/alexsandro_crm/"><img src="logo instagram.png" alt="instagram"/></a>
+      <a href="https://www.linkedin.com/in/alexsandro-correa-088572238/"><img src="imagens/logolinkedin.png" alt="linkedin"/></a>
+      <a href="https://www.facebook.com/alexsandro.rosamatos/"><img src="imagens/logo-facebook50.png" alt="facebook"/></a>
+  <a href="https://www.instagram.com/alexsandro_crm/"><img src="imagens/logo instagram.png" alt="instagram"/></a>
   
