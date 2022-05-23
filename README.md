@@ -13,7 +13,10 @@
 </p>
 
 
-My name is Alexsandro, I'm 24 years old, I live in Lages, Santa Catarina and I study programming through the program entra21. 
+My name is Alexsandro;
+I'm 24 years old;
+I live in Lages, Santa Catarina;
+I study programming through the program entra21! 
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)&nbsp;
