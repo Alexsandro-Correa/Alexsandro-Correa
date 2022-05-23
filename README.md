@@ -1,6 +1,6 @@
 ## Alexsandro Correa, Hey there 🙋‍♂️
 🧑‍💻
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/color=%50f00&width=500&height=80&size=20&multiline=true&lines=Welcome+to+my+Github+profile!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%50f00&width=500&height=80&size=20&multiline=true&lines=Welcome+to+my+Github+profile!;)](https://git.io/typing-svg)
 
 
 
