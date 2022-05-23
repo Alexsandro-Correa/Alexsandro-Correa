@@ -13,10 +13,10 @@
 </p>
 
 
-<p>My name is Alexsandro;</p>
-<p>I'm 24 years old;</p>
-<p>I live in Lages, Santa Catarina;</p>
-<p>I study programming through the program entra21!</p> 
+<p>Name > <span style="color:00FFFF;">Alexsandro</span></p>
+<p>Age > <span style="color:00FFFF;">24 years old</span></p>
+<p><span style="color:00FFFF;">Lages, Santa Catarina</span></p>
+<p><span style="color:00FFFF;">I study programming through the program entra21!</span></p></p> 
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)&nbsp;
