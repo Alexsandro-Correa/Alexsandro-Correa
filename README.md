@@ -1,6 +1,6 @@
 ## Alexsandro Correa, Hey there 🙋‍♂️
 🧑‍💻
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=500&height=80&size=20&multiline=true&lines=Welcome+to+my+Github+profile!;My+name+is+Alexsandro+and+I+live+in+Lages+Santa+Catarina.;I+am+24+years+old.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=500&height=80&size=20&multiline=true&lines=Welcome+to+my+Github+profile!;My+name+is+Alexsandro+and+I+live+in+Lages+,+SC.;I+am+24+years+old.)](https://git.io/typing-svg)
 
 
 
