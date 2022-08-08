@@ -5,7 +5,7 @@
 
 
 
-<p align="left">
+<p style="text-align:left">
   <img
     src="https://komarev.com/ghpvc/?username=Alexsandro-Correa"
     alt="Alexsandro-Correa"
@@ -14,13 +14,15 @@
 
 <p><span style="color:#00FFFF;">I study programming through the program entra21!</span></p></p> 
 
+![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Alexsandro-Correa)
+
 <table>
   <thead>
      <th>
-     Area
+     ## *Area*
      </th>
       <th>
-      knowledge
+      ## *Knowledge*
       </th>
   </thead>
 
@@ -81,8 +83,8 @@
 
 
 
-![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Alexsandro-Correa)
-<p align="left">
+
+<p style="text-align:left">
       <a href="https://www.linkedin.com/in/alexsandro-correa-088572238/"><img src="imagens/logolinkedin.png" alt="linkedin"/></a>
       <a href="https://www.facebook.com/alexsandro.rosamatos/"><img src="imagens/logo-facebook50.png" alt="facebook"/></a>
   <a href="https://www.instagram.com/alexsandro_crm/"><img src="imagens/logo instagram.png" alt="instagram"/></a>
