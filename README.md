@@ -19,10 +19,10 @@
 <table>
   <thead>
      <th>
-     ## *Area*
+      <b>Area</b>
      </th>
       <th>
-      ## *Knowledge*
+      <b>Knowledge</b>
       </th>
   </thead>
 
