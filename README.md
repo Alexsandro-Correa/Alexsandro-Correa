@@ -92,7 +92,7 @@
 </table>
 
 <p style="text-align:left">
-      <a href="https://www.linkedin.com/in/alexsandro-correa-088572238/"><img src="imagens/logolinkedin.png" alt="linkedin"/></a>
+      <a href="https://www.linkedin.com/in/alexsandro-correa-developer-backend/"><img src="imagens/logolinkedin.png" alt="linkedin"/></a>
       <a href="https://www.facebook.com/alexsandro.rosamatos/"><img src="imagens/logo-facebook50.png" alt="facebook"/></a>
       <a href="https://www.instagram.com/alexsandro_crm/"><img src="imagens/logo instagram.png" alt="instagram"/></a>
       <a href="https://alexsandro-correa.github.io/"><img src="imagens/logo_site.png" alt="Site"/></a>
