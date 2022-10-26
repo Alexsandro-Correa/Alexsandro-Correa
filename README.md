@@ -1,9 +1,7 @@
 ## Alexsandro Correa, Hey there 🙋‍♂️
+
 🧑‍💻
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=500&height=80&size=20&multiline=true&lines=Welcome+to+my+Github+profile!;My+name+is+Alexsandro+and+I+live+in+Lages+SC.;I+am+24+years+old.)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&width=500&height=80&size=20&multiline=true&lines=Welcome+to+my+Github+profile!;My+name+is+Alexsandro+and+I+live+in+Lages+SC.;I+am+graduated+in+java+by+the+entra21.)](https://git.io/typing-svg)
 
 <p style="text-align:left">
   <img
@@ -12,7 +10,7 @@
   />
 </p>
 
-<p><span style="color:#00FFFF;">I study programming through the program entra21!</span></p></p> 
+<p><span style="color:#00FFFF;">I am graduated programming through the program entra21!</span></p></p>
 
 ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Alexsandro-Correa)
 
@@ -32,6 +30,9 @@
 <td>
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
+![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)&nbsp;
 
 </td>
 </tr>
@@ -47,8 +48,21 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-black?style=flat&logo=json)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat&logo=jquery)&nbsp;
-<!-- ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp; -->
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
+![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
+
+</td>
+</tr>
+
+<tr>
+<td> IDE</td>
+<td>
+
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
+![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-black?style=flat&logo=Spring&logoColor=green)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </td>
 </tr>
@@ -73,20 +87,12 @@
 </td>
 </tr>
 
-
 </tbody>
 
 </table>
-
-
-
-
-
-
 
 <p style="text-align:left">
       <a href="https://www.linkedin.com/in/alexsandro-correa-088572238/"><img src="imagens/logolinkedin.png" alt="linkedin"/></a>
       <a href="https://www.facebook.com/alexsandro.rosamatos/"><img src="imagens/logo-facebook50.png" alt="facebook"/></a>
       <a href="https://www.instagram.com/alexsandro_crm/"><img src="imagens/logo instagram.png" alt="instagram"/></a>
       <a href="https://alexsandro-correa.github.io/"><img src="imagens/logo_site.png" alt="Site"/></a>
-  
